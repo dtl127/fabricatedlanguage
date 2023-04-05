@@ -1,11 +1,13 @@
 body {
-    background-color: darkolivegreen
+    background-color: darkolivegreen;
+    margin-left: 20px;
+    
 }
 
 h1 {
     color: floralwhite;
     font: "Georgia";
-    font-size: 127px
+    font-size: 127px;
 }
 
 p {
